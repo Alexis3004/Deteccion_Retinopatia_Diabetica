@@ -29,7 +29,7 @@ El conjunto de [datos](https://www.kaggle.com/c/diabetic-retinopathy-detection/d
 3. InceptionResnetV2.
 4. MobileNetV2.
 
-## Enlaces de interes:
+## Enlaces de interés:
 
 1. [Codigo](https://github.com/Alexis3004/Deteccion_Retinopatia_Diabetica/blob/main/Codigo/Deteccion_RD_IA2.ipynb)
 2. [Video youtube](https://youtu.be/5XMXb5rqnMM)
