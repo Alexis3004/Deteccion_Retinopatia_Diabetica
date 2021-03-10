@@ -32,5 +32,6 @@ El conjunto de [datos](https://www.kaggle.com/c/diabetic-retinopathy-detection/d
 ## Enlaces de interes:
 
 1. [Codigo](https://github.com/Alexis3004/Deteccion_Retinopatia_Diabetica/blob/main/Codigo/Deteccion_RD_IA2.ipynb)
-2. [Video](https://github.com/EdgarAndresMontenegro/Zebrafish_Behaver_Net/blob/master/Video_Descripcion.mp4)
-3. [Presentacion](https://github.com/Alexis3004/Deteccion_Retinopatia_Diabetica/blob/main/Deteccion_RD.pdf)
+2. [Video youtube](https://youtu.be/5XMXb5rqnMM)
+3. [Video Repositorio](https://github.com/Alexis3004/Deteccion_Retinopatia_Diabetica/blob/main/DeteccionRetinopatiaDiabetica.mp4)
+4. [Presentacion](https://github.com/Alexis3004/Deteccion_Retinopatia_Diabetica/blob/main/Deteccion_RD.pdf)
