@@ -1,7 +1,5 @@
 # Detección de Retinopatía Diabética y sus etapas.
 
-**Autores**: Nelson Alexis Cáceres Carreño y Jenny Marcela Santamaría Rincón.
-
 **Autores**|codigo
 --|--
 Jenny Marcela Santamaría Rincón|2171455
@@ -16,7 +14,7 @@ Nelson Alexis Cáceres Carreño|2171763
 * Identificar el modelo que mejor se adapte a la hora de detectar las diferentes etapas de la retinopatía diabética.
 
 ## Dataset:
-El conjunto de datos consta de 35.126 imágenes de escaneo de retina tomadas en un exámen de fondo de ojo, tanto del ojo izquierdo como del derecho. Dichas imágenes se categorizan dependiendo el estado o etapa en la cual se encuentra esta enfermedad ocular:
+El conjunto de [datos](https://www.kaggle.com/c/diabetic-retinopathy-detection/data) consta de 35.126 imágenes de escaneo de retina tomadas en un exámen de fondo de ojo, tanto del ojo izquierdo como del derecho. Dichas imágenes se categorizan dependiendo el estado o etapa en la cual se encuentra esta enfermedad ocular:
 
 * **0-Sin retinopatía diabética:** 25.810 imágenes
 * **1-Leve:** 2.443 imágenes
