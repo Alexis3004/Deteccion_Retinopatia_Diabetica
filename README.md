@@ -2,15 +2,20 @@
 
 **Autores**: Nelson Alexis Cáceres Carreño, Jenny Marcela Santamaría Rincón.
 
-![Texto alternativo](BannerRetinopatia.png)
+![Texto alternativo](BannerRetinopatia.jpeg)
 
 ## Objetivo
 El objetivo de este proyecto fue la caracterización y clasificación de la conducta social del pez cebra en un experimento del comportamiento social con 
 cafeína empleando redes neuronales convolucionales.
 
 ## Dataset:
-El dataset utilizado consta de 110 videos de movimiento de peces cebra todos agrupados en cuatro clases de niveles de estres inducidos por 
-cafeina (control, estrés0, estrés10, estrés100), todos estos videos constan de una resolución de 150x268px y a una velocidad a 30fps.
+El conjunto de datos consta de 35.126 imágenes de escaneo de retina tomadas en un exámen de fondo de ojo, tanto del ojo izquierdo como del derecho. Dichas imágenes se categorizan dependiendo el estado o etapa en la cual se encuentra esta enfermedad ocular:
+
+*   **0-Sin retinopatía diabética:** 25.810 imágenes
+*   **1-Leve:** 2.443 imágenes
+*   **2-Moderada:** 5.292 imágenes
+*   **3-Grave:** 873 imágenes
+*   **4-Retinopatía diabética proliferativa:** 708 imágenes
 
 ## Algoritmos utilizados:
 
